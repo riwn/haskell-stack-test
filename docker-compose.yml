@@ -1,0 +1,8 @@
+version: '3'
+services:
+  haskell:
+    build: ./image
+    container_name: 'practice-haskell'
+    tty: true
+    volumes:
+      - "./src:/opt/src"
