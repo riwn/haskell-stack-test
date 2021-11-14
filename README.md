@@ -1,0 +1,2 @@
+# haskell-stack-test
+haskellのテスト
